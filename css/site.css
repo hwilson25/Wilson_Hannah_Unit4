@@ -1,0 +1,53 @@
+/* add your css on this page */
+body { 
+    background-color: #fe7f7f;
+    color: #1E1B0E;
+    margin: 0;
+    padding: 0;
+}
+
+#MainArticle {
+    border: #95c8f8 15px ridge;
+    margin: 15px;
+    padding: 10px;
+    background-color: #fcd2d2;
+}
+
+img {
+    border: #95c8f8 3px groove;
+    padding: 2px;
+}
+
+#GandB {
+    margin-left: 25px;
+    margin-top: 8px;
+}
+#menuPlanner,span {
+    float: right;
+    margin: 0 10px 0 20px;
+}
+
+nav {
+    position: absolute;
+    right: 2em;
+    top: 3em;
+}
+
+.navItem {
+    color: #252217;
+    background-color: #fcd2d2;
+    padding: 1.3em;
+    font-size: 1.3em;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: .2em;
+    border: #95c8f8 3px groove;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    margin: 5px;
+}
